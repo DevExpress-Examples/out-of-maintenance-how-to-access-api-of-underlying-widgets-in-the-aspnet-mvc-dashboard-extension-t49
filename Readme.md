@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/MVCxDashboard_UnderlyingWidgets/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/MVCxDashboard_UnderlyingWidgets/Controllers/HomeController.vb))
+* [Global.asax.cs](./CS/MVCxDashboard_UnderlyingWidgets/Global.asax.cs) (VB: [Global.asax.vb](./VB/MVCxDashboard_UnderlyingWidgets/Global.asax.vb))
+* [WidgetsCustomization.js](./CS/MVCxDashboard_UnderlyingWidgets/Scripts/WidgetsCustomization.js) (VB: [WidgetsCustomization.js](./VB/MVCxDashboard_UnderlyingWidgets/Scripts/WidgetsCustomization.js))
+* [Index.cshtml](./CS/MVCxDashboard_UnderlyingWidgets/Views/Home/Index.cshtml)
+* [_Layout.cshtml](./CS/MVCxDashboard_UnderlyingWidgets/Views/Shared/_Layout.cshtml)
+<!-- default file list end -->
 # How to access API of underlying widgets in the ASP.NET MVC Dashboard Extension
 
 
