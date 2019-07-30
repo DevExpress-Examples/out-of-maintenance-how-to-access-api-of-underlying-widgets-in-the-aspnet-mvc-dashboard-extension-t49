@@ -9,7 +9,7 @@
 <!-- default file list end -->
 # How to access API of underlying widgets in the ASP.NET MVC Dashboard Extension
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t492411)**
+**[[Run Online]](https://codecentral.devexpress.com/t492411/)**
 <!-- run online end -->
 
 
